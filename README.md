@@ -23,6 +23,7 @@ A simple, interactive "Guess the Number" game built using HTML, CSS, and JavaScr
 
 ```bash
 git clone https://github.com/SaadCreations/guess-the-number-game
+```
 cd guess-the-number-game
 # Open index.html in browser
 
